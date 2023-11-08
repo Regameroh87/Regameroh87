@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <title>Rodrigo Gamero - Desarrollador Web</title>
-</head>
 <body>
   <h1 style="text-align: center;">Hola 👋, Soy Rodrigo Gamero</h1>
   <hr>
