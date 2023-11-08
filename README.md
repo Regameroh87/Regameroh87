@@ -3,7 +3,7 @@
 <body>
   <h1 style="text-align: center;">Hola 👋, Soy Rodrigo Gamero</h1>
   <hr>
-  <h3 style="text-align: center;">Apasionado por el desarrollo web y el mundo tech</h3>
+  <h3 style="text-align: center;">Un apasionado por el desarrollo web y el mundo tech</h3>
   <p style="text-align: center;">
     <img src="giphy.gif" alt="GIF">
   </p>
