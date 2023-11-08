@@ -13,7 +13,7 @@
   <p>
     ¡Hola a todos! 🫶🏻 Permítanme compartir un poco sobre mi emocionante viaje en el mundo de la tecnología 💻. Recientemente, me aventuré en este campo y descubrí mi verdadera pasión. Gracias a un bootcamp como Henry, he tenido la oportunidad de aprender y crecer a pasos agigantados, adquiriendo habilidades en diversas tecnologías que me han permitido llevar a cabo proyectos tanto individuales como colaborativos. Hoy en día, continúo mi aprendizaje y desarrollo en esta maravillosa industria que me apasiona cada día más. ¡Estoy emocionado por lo que el futuro me depara y ansioso por seguir creciendo y aprendiendo en este apasionante mundo! 🚀🚀🚀
   </p>
-  <p>Si te interesan mis habilidades, puedes contactarme por mail gamero.rodrigo@gmail.com</p>
+  <p>Si te interesan mis habilidades, ¡puedes contactarme en <a href="gamero.rodrigo@gmail.com">gamero.rodrigo@gmail.com</a>!</p>
   <hr>
   <p>
     <img src="coding.gif" alt="GIF">
